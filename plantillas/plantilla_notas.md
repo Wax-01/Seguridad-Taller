@@ -1,11 +1,8 @@
 # 🗒️ Registro de Trabajo en Clase - Taller X
 
-## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
-
 ## 👥 Integrantes presentes
-- Nombre 1
-- Nombre 2
+- Julian Aguilar
+- Juan Esteban Ramirez
 - Nombre 3
 
 ## 🧠 Actividades realizadas en clase
@@ -13,13 +10,17 @@ _Indique la fecha de la clase en que se trabajó este taller._
 Describa brevemente qué se hizo durante la sesión:
 
 - ¿Qué se discutió con el equipo?
-- ¿Qué decisiones de modelado se tomaron?
+
+Se discutio acerca de cuales podrian ser las brechas de seguridad que se pueden encontrar en nuestro proceso, el cual incluye informacion poco sensible
+
 - ¿Qué herramientas se usaron (papel, pizarra, draw.io, Astah)?
+
+Usamos la plantilla en Excel para ubicar los riesgos
+
 - ¿Qué parte del trabajo se alcanzó a desarrollar?
 
-## 🧩 Boceto inicial del modelo
+hicimos un boceto inicial de los riesgos, pero incompleto
 
-> (Puede insertar aquí una imagen del boceto, una captura de pantalla o un diagrama preliminar si ya fue hecho en digital)
 
 ## 🔁 Tareas definidas para complementar el taller
 
@@ -27,9 +28,9 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
-| Modelado final en draw.io | Nombre 1 | 10/08 |
-| Redacción del informe     | Nombre 2 | 11/08 |
-| Investigación y referencias | Nombre 3 | 12/08 |
+| Modelado final en draw.io | Juan Esteban | 10/08 |
+| Redacción del informe y carga de datos en github   | Julian Aguilar | 11/08 |
+
 
 ---
 
